@@ -53,7 +53,7 @@
     // If false, just fills fields.
     const AUTOLOGIN = false;
     // Enable logs?
-    const LOGS = true;
+    const LOGS = false;
     // How long to wait before the script starts. Set milliseconds.
     const WAIT = 2000;
     // A script will run if the IP address of device is in one of this subnets. | Add your own subnets.
