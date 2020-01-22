@@ -1,6 +1,9 @@
 // ==UserScript==
 // @name         web-autologin-script
-// @namespace    https://github.com/Savamoti/web-autologin-script
+// @license      MIT
+// @homepageURL  https://github.com/Savamoti/web-autologin-script
+// @supportURL   https://github.com/Savamoti/web-autologin-script/issues
+// @updateURL    https://github.com/Savamoti/web-autologin-script/releases/latest/download/web-autologin-script.user.js
 // @version      1.0
 // @description  The script automatically fills the username and password fields.
 // @author       Savamoti
