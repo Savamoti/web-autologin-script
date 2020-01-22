@@ -9,12 +9,13 @@ I’m just tired of constantly entering the username and password on each device
 ### Instructions
 ##### Installation through https://openuserjs.org/
 1. Download and install Tampermonkey for your browser.
-2. Open the link and click on the Install button on the site.
-3. Set [settings](#settings).
+2. Open the [link](https://openuserjs.org/scripts/savamoti/web-autologin-script) and click on the Install button on the site.
+3. Open Tampermonkey preferenses and set [settings](#settings).
 
 ##### Manual installation
 1. Download and install Tampermonkey for your browser.
 2. Download web-autologin-script.user.js, open and set your [settings](#settings).
+3. Load web-autologin-script.user.js to Tampermonkey.
 
 ##### Settings
 My devices work with http, if you need, you can enable https, add to // ==UserScript==
